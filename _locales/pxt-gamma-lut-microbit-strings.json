@@ -1,0 +1,5 @@
+{
+  "led.gamma|block": "gamma correct|brightness %bright",
+  "led|block": "led",
+  "{id:category}Led": "Led"
+}
