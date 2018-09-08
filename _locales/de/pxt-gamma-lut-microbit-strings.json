@@ -1,5 +1,3 @@
 {
-  "led.gamma|block": "korrigiere Gamma|Helligkeit %bright",
-  "led|block": "led",
-  "{id:category}Led": "Led"
+  "led.gamma|block": "korrigiere Gamma|Helligkeit %bright"
 }
