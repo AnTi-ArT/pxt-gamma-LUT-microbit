@@ -1,10 +1,9 @@
 {
     "name": "pxt-gamma-lut-microbit",
     "version": "0.0.0",
-    "description": "",
+    "description": "Gamma Correction LUT",
     "dependencies": {
-        "core": "*",
-        "radio": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
