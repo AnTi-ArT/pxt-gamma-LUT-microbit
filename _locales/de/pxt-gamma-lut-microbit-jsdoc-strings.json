@@ -1,6 +1,0 @@
-{
-    "gammaLUT": "This Lookup Table is mainly based on https://learn.adafruit.com/led-tricks-gamma-correction?view=all\r\nbut recalculated with Gamma 2.2 and some \"0\"s replaced by \"1\"s",
-    "led": "Control of the LED screen.\n\r\nBenutzerdefinierte Blöcke",
-    "led.gamma": "Returns a brightness value with gamma correction applied. \r\nFor a more even, \"optical\" LED appearance.",
-    "led.gamma|param|bright": "The \"mathematical\" brightness value from 0 to 255, eg: 255"
-}
