@@ -1,0 +1,5 @@
+{
+  "gammaLUT": "Diese Umsetzungstabelle basiert auf: https://learn.adafruit.com/led-tricks-gamma-correction?view=all\r\nbut Neu berechnet mit Gamma 2.2 und einigen \"0\"en ersetzt durch \"1\"en",
+  "led.gamma": "Gibt einen gamma-korrigierten Helligkeitswert aus. \r\nFür ein gleichmäßiges, \"optisches\" Aussehen der LEDs.",
+  "led.gamma|param|bright": "Der \"mathematische\" Helligkeitswert von 0 bis 255, z.b.: 255"
+}
