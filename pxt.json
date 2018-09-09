@@ -2,14 +2,14 @@
     "name": "pxt-gamma-lut-microbit",
     "version": "0.0.2",
     "description": "Gamma Correction LUT",
-	"license": "MIT",
+    "license": "MIT",
     "dependencies": {
         "core": "*"
     },
     "files": [
         "README.md",
         "main.ts",
-		"_locales/de/pxt-gamma-lut-microbit-jsdoc-strings.json",
+	"_locales/de/pxt-gamma-lut-microbit-jsdoc-strings.json",
         "_locales/de/pxt-gamma-lut-microbit-strings.json"
     ],
     "testFiles": [
