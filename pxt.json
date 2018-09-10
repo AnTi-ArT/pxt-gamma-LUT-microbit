@@ -1,6 +1,6 @@
 {
     "name": "pxt-gamma-lut-microbit",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "description": "Gamma Correction LUT",
     "license": "MIT",
     "dependencies": {
@@ -15,5 +15,5 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false
+    "public": true
 }
