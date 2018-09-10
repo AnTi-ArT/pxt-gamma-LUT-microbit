@@ -1,7 +1,7 @@
 {
     "name": "pxt-gamma-lut-microbit",
-    "version": "0.0.5",
-    "description": "Gamma Correction LUT",
+    "version": "1.0.0",
+    "description": "LED Gamma Correction with a LUT",
     "license": "MIT",
     "dependencies": {
         "core": "*"

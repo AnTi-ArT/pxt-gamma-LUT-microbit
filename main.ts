@@ -21,15 +21,11 @@ const gammaLUT = [
     223, 226, 228, 230, 232, 234, 236, 238, 240, 242, 244, 247, 249, 251, 253, 255
 ];
 
-/**
- * Benutzerdefinierte Blöcke
- */
-// weight=100 color=#667711 icon="" (no need, goes into LED category)
 namespace led {
 
     /**
      * Returns a brightness value with gamma correction applied. 
-     * For a more even, "optical" LED appearance.
+     * Makes the LEDs appear more "even" to the eye.
      * @param bright The "mathematical" brightness value from 0 to 255, eg: 255
      */
     //% weight=58
